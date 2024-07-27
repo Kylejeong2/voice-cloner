@@ -1,0 +1,7 @@
+flask
+twilio
+SpeechRecognition==2.1.3
+openai
+elevenlabs
+pydub
+python-dotenv
